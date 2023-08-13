@@ -1,1 +1,1 @@
-<h1>GFG_Daily_Questions>/h1>
+<h1>GFG_Daily_Questions</h1>
