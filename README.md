@@ -17,7 +17,7 @@
 <p>3. Non Repeating Numbers
   <ul>
     <li><a href="https://practice.geeksforgeeks.org/problems/finding-the-numbers0215/1"> Question Link</a></li>
-    <li><a href=""> Answer Link</a></li>
+    <li><a href="https://github.com/Anibaba4296/GFG_Daily_Questions/blob/main/Non%20Repeating%20Numbers"> Answer Link</a></li>
   </ul>
 </p>
 </div>
